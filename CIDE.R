@@ -59897,7 +59897,7 @@ auction.</def> <mark>[Scot.]</mark> <rj><au>Jamieson.</au></rj><br/
 
 <p><ent>Roup</ent><br/
 <hw>Roup</hw>, <pos>n.</pos> <sn>1.</sn> <def>An outcry; hence, a sale
-of gods by auction.</def> <mark>[Scot.]</mark>
+of goods by auction.</def> <mark>[Scot.]</mark>
 <rj><au>Jamieson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 

@@ -22376,7 +22376,7 @@ something, as a wash for making the skin fair.</def>
 <rj><au>Addison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A composition of line and water, or of whiting size,
+<p><sn>2.</sn> <def>A composition of lime and water, or of whiting size,
 and water, or the like, used for whitening walls, ceilings, etc.; milk
 of lime.</def><br/
 [<source>1913 Webster</source>]</p>
