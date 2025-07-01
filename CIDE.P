@@ -87604,7 +87604,7 @@ beyond + <ets>mittere</ets> to send. See <er>Mission</er>.]</ety>
 
 <p><ent>Preternatural</ent><br/
 <hw>Pre`ter*nat"u*ral</hw> <pr>(?; 135)</pr>, <pos>a.</pos> <ety>[Pref.
-<ets>preter + natural</ets>.]</ety> <def>Beyond of different from what
+<ets>preter + natural</ets>.]</ety> <def>Beyond or different from what
 is natural, or according to the regular course of things, but not
 clearly supernatural or miraculous; strange; inexplicable;
 extraordinary; uncommon; irregular; abnormal; <as>as, a
