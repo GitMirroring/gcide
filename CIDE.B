@@ -42068,7 +42068,7 @@ characterizes a blockhead; stupidity.</def>
 edifice or structure of heavy timbers or logs for military defense,
 having its sides loopholed for musketry, and often an upper story
 projecting over the lower, or so placed upon it as to have its sides
-make an angle wit the sides of the lower story, thus enabling the
+make an angle with the sides of the lower story, thus enabling the
 defenders to fire downward, and in all directions; -- formerly much used
 in America and Germany.</def><br/
 [<source>1913 Webster</source>]</p>
