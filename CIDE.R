@@ -54009,10 +54009,10 @@ signals, and also for pyrotechnic display.</def><br/
 <p><sn>2.</sn> <def>A blunt lance head used in the joust.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>any flying device containing its own propellant
+<p><sn>3.</sn> <def>Any flying device containing its own propellant
 and driven by reaction to exhaust expelled at high speed in the
 direction opposite its motion. The most common type of rockets
-are chemical, creating exhaust by the combustion of fuel with an
+is chemical, creating exhaust by the combustion of fuel with an
 oxidizer. Other types are cold gas thrusters, ion thrusters, etc.
 
 Since rocket engines do not depend on a surrounding fluid medium to
