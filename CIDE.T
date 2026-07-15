@@ -14490,7 +14490,7 @@ occupant.</def> <ldquo/Sweet <xex>tenants</xex> of this grove.<rdquo/
 <rj><au>Cowper.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>The hhappy <qex>tenant</qex> of your shade.</q>
+<p><q>The happy <qex>tenant</qex> of your shade.</q>
 <rj><qau>Cowley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 

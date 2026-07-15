@@ -54009,17 +54009,16 @@ signals, and also for pyrotechnic display.</def><br/
 <p><sn>2.</sn> <def>A blunt lance head used in the joust.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>any flying device propelled by the reactive force of
-hot gases expelled in the direction opposite its motion. The fuel used
-to generate the expelled gases in rockets may be solid or liquid;
-rockets propelled by liquid fuels typically have a combustible fuel
-(such as hydrogen or kerosene) which is combined inside the rocket
-engine with an oxidizer, such as liquid oxygen. Single liquid fuels
-(called monopropellants) are also known. Since rocket engines do not
-depend on a surrounding fluid medium to generate their thrust, as do
-airplanes with propellers or jet engines, they may be used for
-propulsion in the vacuum of space.</def><br/
-[<source>PJC</source>]</p>
+<p><sn>3.</sn> <def>any flying device containing its own propellant
+and driven by reaction to exhaust expelled at high speed in the
+direction opposite its motion. The most common type of rockets
+are chemical, creating exhaust by the combustion of fuel with an
+oxidizer. Other types are cold gas thrusters, ion thrusters, etc.
+
+Since rocket engines do not depend on a surrounding fluid medium to
+generate their thrust, as do airplanes with propellers or jet engines,
+they may be used for propulsion in the vacuum of space.</def><br/
+[<source>PJC, Wikipedia</source>]</p>
 
 <p><cs><col><b>Congreve rocket</b></col>, <cd>a powerful form of rocket
 for use in war, invented by Sir William Congreve. It may be used either
