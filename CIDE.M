@@ -49353,7 +49353,7 @@ Palestine in the time of Christ.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Two <qex>mites</qex>, which make a farthing.</q> <rj><qau>Mark
-xii. 49.</qau></rj><br/
+xii. 42.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A small weight; one twentieth of a grain.</def><br/
